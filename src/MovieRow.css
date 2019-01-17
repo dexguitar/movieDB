@@ -1,0 +1,27 @@
+.movieTitle {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+
+.viewBtn {
+  width: 100px;
+  padding: 0.9em;
+  font-size: 0.9rem;
+  border: 1px solid steelblue;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.viewBtn:hover {
+  background: steelblue;
+  color: #fff;
+}
+
+p {
+  font-weight: 300;
+}
+
+#content {
+  margin-top: 30px;
+}
